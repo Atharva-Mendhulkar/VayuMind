@@ -1,12 +1,29 @@
+<div align="center">
+
 # VayuMind
+
 ### AI-Powered Urban Air Quality Intelligence Platform
 
-<p align="center">
+</div>
 
-![Hackathon](https://img.shields.io/badge/ET%20AI%20Hackathon%202026-Problem%20Statement%205-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Prototype-success?style=for-the-badge)
-![PINN](https://img.shields.io/badge/PINN-JointPINN%20v8-orange?style=for-the-badge)
+<p align="center">
+  
+<div align="center">
+
+# VayuMind
+
+### AI-Powered Urban Air Quality Intelligence Platform
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy)
+![JointPINN](https://img.shields.io/badge/PINN-JointPINN%20v8-orange?style=for-the-badge)
 ![R²](https://img.shields.io/badge/R²-0.9049-success?style=for-the-badge)
+
+</div>
 
 </p>
 
