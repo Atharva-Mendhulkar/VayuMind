@@ -1,10 +1,4 @@
-<div align="center">
 
-# VayuMind
-
-### AI-Powered Urban Air Quality Intelligence Platform
-
-</div>
 
 <p align="center">
   
